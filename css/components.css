@@ -699,8 +699,8 @@
 .accordion-icon {
   transition: transform var(--transition-base) var(--ease-smooth);
   flex-shrink: 0;
-  color: white;
-  stroke: white;
+  color: #6a6a6a;
+  stroke: #6a6a6a;
 }
 
 .accordion-header[aria-expanded="true"] .accordion-icon {
